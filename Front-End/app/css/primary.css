@@ -1,0 +1,10 @@
+.homepage-banner-section {
+    display: block;
+    padding: 100px 0;
+    background: #f7f7f7;
+    text-align: center;
+}
+.homepage-banner-section h1 {
+    font-size: 40px;
+    font-weight: bold;
+}

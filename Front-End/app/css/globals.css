@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --primary: #6C63FF;
+    --secondary: #5850CD;
+    --gray-dark: #273444;
+    --gray: #8492a6;
+    --gray-light: #d3dce6;
+    --gray-light2: #ddd;
+    --gray-light3: #eee;
+    --gray-light4: #f3f3f3;
+    --fontfamily: 'Manrope', sans-serif;
+}
+img {
+    max-width: 100%;
+}
